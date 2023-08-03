@@ -14,8 +14,8 @@ const firebaseConfig = {
   projectId: "chatpwc-711a0",
   storageBucket: "chatpwc-711a0.appspot.com",
   messagingSenderId: "267904903784",
-  appId: "1:267904903784:web:ff798092b254746f9869dd",
-  measurementId: "G-YYWSS26VD1"
+  appId: "1:267904903784:web:dca2dcfcfd8772af9869dd",
+  measurementId: "G-VY9BVCGM3M"
 };
 
 // Initialize Firebase
