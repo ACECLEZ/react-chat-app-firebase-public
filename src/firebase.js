@@ -8,12 +8,14 @@ import {getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: YOUR_API_KEY,
-  authDomain: YOUR_AUTH_DOMAIN,
-  projectId: YOUR_PROJECT_ID,
-  storageBucket: YOUR_STORAGE_BUCKET,
-  messagingSenderId: YOUR_MESSAGING_SENDER_ID,
-  appId: YOUR_APP_ID
+  apiKey: "AIzaSyCMDIcXRy_95DrzD9kSo_GxJl96de4aGO4",
+  authDomain: "chatpwc-711a0.firebaseapp.com",
+  databaseURL: "https://chatpwc-711a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "chatpwc-711a0",
+  storageBucket: "chatpwc-711a0.appspot.com",
+  messagingSenderId: "267904903784",
+  appId: "1:267904903784:web:ff798092b254746f9869dd",
+  measurementId: "G-YYWSS26VD1"
 };
 
 // Initialize Firebase
